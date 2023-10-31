@@ -17,6 +17,7 @@ If you didn't come here from my CV, then feel free to look around. Maybe you'll 
 ### About me
 Hi, my name is Thomas, I'm a maths graduate currently looking for work in software development. I live in the UK 
 (specifically the midlands), and these days I split my time between my cats and over-designing my neovim config.
+I also sometimes fight the Glorious Glasgow Haskell compiler.
 
 ---
 
