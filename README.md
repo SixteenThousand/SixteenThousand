@@ -10,11 +10,12 @@ polished project (you can also see the end result of the code at
  <https://github.com/SixteenThousand/Advent-Of-Code> if you want to see a part 
  of my learning process.
 
-Currently I'm working on 
-![Tag-Explorer](https://github.com/SixteenThousand/Tag-Explorer), a desktop app 
-that lets you browse through your filesystem with tags (as opposed to folders).  
-If you didn't come here from my CV, then feel free to look around. Maybe you'll 
-find something that interests you.
+Currently I'm just adding the finishing touches to 
+[phase](https://github.com/SixteenThousand/Phase), a command-line tool that 
+hopes to make bad version control (i.e. just adding v1,v2, etc to the file 
+names) a bit less bad.
+If you didn't come here from my CV, then feel free to look around. Maybe 
+you'll find something that interests you.
 
 ---
 
