@@ -14,8 +14,6 @@ Currently I'm just adding the finishing touches to
 [phase](https://github.com/SixteenThousand/Phase), a command-line tool that 
 hopes to make bad version control (i.e. just adding v1,v2, etc to the file 
 names) a bit less bad.
-If you didn't come here from my CV, then feel free to look around. Maybe 
-you'll find something that interests you.
 
 ---
 
