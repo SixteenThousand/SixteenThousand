@@ -1,29 +1,24 @@
 ## Hello!
 
-If you're here then you have probably been directed here from my CV, in which 
-case, you should find all the projects I have been working on over the past few 
-months. In particular, I would recommend you look at 
-![RainSweeper](https://github.com/SixteenThousand/RainSweeper) to see a more 
-polished project (you can also see the end result of the code at 
-<https://sixteenthousand.github.io/RainSweeper/>)
- or take a look at my Advent of Code solutions 
- <https://github.com/SixteenThousand/Advent-Of-Code> if you want to see a part 
- of my learning process.
-
-Currently I'm just adding the finishing touches to 
-[phase](https://github.com/SixteenThousand/Phase), a command-line tool that 
-hopes to make bad version control (i.e. just adding v1,v2, etc to the file 
-names) a bit less bad.
+Welcome to my most active social media presence! Here you can find all the 
+projects I've worked on in the past few years. At the moment I am doing this 
+year's [Advent of Code](https://adventofcode.com/2024) (although I am not 
+trying to keep up to date with it). You can find my solutions 
+[here](https://github.com/SixteenThousand/aoc-solutions-2024).
 
 ---
 
+
 ### About me
+
 Hi, my name is Thomas, I'm a maths graduate currently looking for work in 
-software development. I live in the UK (specifically the midlands), and these 
-days I split my time between my cats and over-designing my neovim config.
+software development. I live in the UK (specifically the midlands), and 
+these days I split my time between my cats and my terminal.
 I also sometimes get lost in the woods.
 
 ---
 
+
 ### Contact
+
 You can email me at thomsixteenthousand@gmail.com
