@@ -1,8 +1,3 @@
-<style>
-    h2 { font-size: 1em; }
-</style>
-
-
 # Hello!
 
 *Ask me about terminal escape sequences. I dare you.*
